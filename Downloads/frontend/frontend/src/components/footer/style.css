@@ -1,0 +1,7 @@
+.footer {
+    display: flex !important;
+    justify-content: center;
+    margin : 1.5rem 0!important;
+    margin-bottom: 5rem !important;
+    color: #FFFFFF !important;
+}
